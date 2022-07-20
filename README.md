@@ -1,4 +1,4 @@
-# Ecommerce Website Capstone for the J&C pc online store
+# Ecommerce Website Capstone for the J&C Pc Online Store
 - This was a project for our thesis and built it with basic functionalities of a Ecommerce.
 - It has core functionality of an ecommerce and it saves transaction in the database
 - This project was developer team of 4 members
